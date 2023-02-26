@@ -2,7 +2,7 @@
 
 ## 欢迎来到Abonite的世界
 
-### Hi there 👋 You are my ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visitor!
+### Hi there 👋 You are my ![Visitor Count](https://profile-counter.glitch.me/Abonite/count.svg) visitor!
 ----------
 <a href="https://github.com/Abonite" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
