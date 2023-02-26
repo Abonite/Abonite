@@ -5,6 +5,7 @@
 ### Hi there 👋 You are my ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visitor!
 ----------
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abonite&layout=compact)](https://github.com/Abonite/github-readme-stats)
+### ![Abonite's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abonite&show_icons=true&theme=tokyonight)
 
 <!--
 **Abonite/Abonite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
