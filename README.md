@@ -1,8 +1,6 @@
 # Abonite’d Smiet
 
-## 欢迎来到Abonite的世界
-
-### Hi there 👋 You are my ![Visitor Count](https://profile-counter.glitch.me/Abonite/count.svg) visitor!
+## Hi there 👋 You are my ![Visitor Count](https://profile-counter.glitch.me/Abonite/count.svg) visitor!
 ----------
 <a href="https://github.com/Abonite" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -68,7 +66,8 @@ In addition to FPGA, I am also learning various knowledge of software. If there 
 
 <br/>  
 
-[FPGA](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;")
+![FPGA-Verilog](https://img.shields.io/badge/FPGA-Verilog-yellowgreen?style=for-the-badge&logo=appveyor)
+![FPGA-Cocotb](https://img.shields.io/badge/FPGA-Cocotb-yellowgreen?style=for-the-badge&logo=appveyor)
 
 
 ## Github Stats  
