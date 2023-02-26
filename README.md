@@ -68,6 +68,8 @@ In addition to FPGA, I am also learning various knowledge of software. If there 
 
 <br/>  
 
+[FPGA](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;")
+
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
