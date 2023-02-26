@@ -2,7 +2,7 @@
 
 ## 欢迎来到Abonite的世界
 
-### Hi there 👋
+### Hi there 👋 You are my ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)th visitor!
 
 <!--
 **Abonite/Abonite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
