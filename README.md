@@ -21,7 +21,7 @@ In addition to FPGA, I am also learning various knowledge of software. If there 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 😄 I'm currently learning Django backend technology and html, css, javascript recently  
+- 😄 I'm currently learning Wireless Communication Algrethims
   
 
 - 😀 I am recently learning about [CPU](https://github.com/Abonite/MACPU-FPGA)(RISC-V), DDR controller and [verification methodology](https://github.com/Abonite/MACPU-model), [compiler](https://github.com/Abonite/MACPU-Assembler) related knowledge  
